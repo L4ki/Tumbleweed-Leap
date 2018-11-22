@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment=Tumbleweed-Leap
+Name=Tumbleweed-Leap
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Email=l4k1@gmail.com
+X-KDE-PluginInfo-Name=Tumbleweed-Leap
+X-Plasma-API=5.0
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+contrast=0.2
+enabled=false
+intensity=0.4
+saturation=1.7
+
